@@ -11,8 +11,17 @@ Between 2020 and 2024, several major global events disrupted supply chains and a
 4. Bahrain Imports 2023: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2023](url) 
 5. Bahrain Imports 2024: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2024](url)
    
-### Dashboard
+### Power Bi Project Screenshots
+###### Coverpage
 ![Screenshot of the Coverpage](/images/CoverPage.jpg)
+###### Problem Statement
+![Screenshot of the problem statement](/images/ProblemStatement.jpg)
+###### Dashboard
+![Screenshot of the Dashboard](/images/Dashboard.jpg)
+###### Key Findings
+![Screenshot of the KeyFindings](/images/KeyFindings.jpg)
+###### Recommendations
+![Screenshot of the Recommendations](/images/Recommendations.jpg)
 
 ### Key Findings
 1. Top importing countries are the KAS, UAE, Oman, followed by India, and Italy.
