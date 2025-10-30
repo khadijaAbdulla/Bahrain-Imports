@@ -4,8 +4,15 @@ Bahrain Imports Analysis (2020-2024)
 ### Problem Statement
 Between 2020 and 2024, several major global events disrupted supply chains and affected imports into Bahrain such as Pastrycooks' products, including the COVID-19 pandemic, the war in Ukraine, and attacks on Red Sea shipping; with 2023 having the lowest imported quantity which was around 38.5M Pastry Products. These events caused delays, higher costs, and increased uncertainty for importing businesses. 
 
+## Datasets Source:
+1. Bahrain Imports 2020: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2020](url)
+2. Bahrain Imports 2021: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2021](url)
+3. Bahrain Imports 2022: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2022](url)
+4. Bahrain Imports 2023: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2023](url) 
+5. Bahrain Imports 2024: [https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports+2024](url)
+   
 ### Dashboard
--add screenshots-
+![Screenshot of the Coverpage](/images/CoverPage.jpg)
 
 ### Key Findings
 1. Top importing countries are the KAS, UAE, Oman, followed by India, and Italy.
